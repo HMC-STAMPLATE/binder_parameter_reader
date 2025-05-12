@@ -1,2 +1,2 @@
 #!/bin/bash
-jupyter serverextension enable voila --sys-prefix
+# No additional configuration needed for voila in modern Binder
