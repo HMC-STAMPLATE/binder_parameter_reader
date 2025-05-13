@@ -1,7 +1,0 @@
-name: binder-parameter-reader
-channels:
-- conda-forge
-dependencies:
-- jupyter-notebookparams
-- ipywidgets
-- jupyterlab>=3.1
